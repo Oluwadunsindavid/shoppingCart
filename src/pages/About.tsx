@@ -6,7 +6,7 @@ export function About() {
       <section className="about-section">
         <h2>Who We Are</h2>
         <p>
-          Welcome to <strong>our store</strong>, your number one destination for
+          Welcome to our store, your number one destination for
           premium products, unbeatable prices, and exceptional customer service.
         </p>
         <p>
